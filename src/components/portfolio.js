@@ -41,15 +41,16 @@ export default function Portfolio() {
                     <a
                       target={"_blank"}
                       rel="noreferrer"
-                      className="font-bold mr-4"
+                      className="bg-navylight hover:bg-navy text-white font-bold py-2 px-4 rounded-full mr-5"
                       href={project.link}
                     >
+                      {" "}
                       Live
                     </a>
                     <a
                       target={"_blank"}
                       rel="noreferrer"
-                      className="font-bold"
+                      className="bg-navylight hover:bg-navy text-white font-bold py-2 px-4 rounded-full"
                       href={project.github}
                     >
                       Repo

@@ -14,10 +14,10 @@ export const projects = [
     description:
       "Responsive Netflix clone. Has four main pages: home, signin, signout and browse (this one is protected to allow users only). There is one video to play as well.",
     technologies:
-      "React (custom hooks, compound components, styled components), Firebase for the database and hosting, Fuse.js for the search bar.",
+      "React (custom hooks, compound components, styled components), Firebase for the database and hosting, React testing library for the tests, Fuse.js for the search bar.",
     image: "/images/netflix.png",
     link: "https://netclone-790b6.web.app",
-    github: "https://github.com/7ing7ing/netclone",
+    github: "https://github.com/7ing7ing/netclone/signin",
   },
   {
     key: "2",
@@ -27,7 +27,7 @@ export const projects = [
     technologies:
       "React(custom hooks), Firebase for the database and vercel for hosting and TaiwindCSS.",
     image: "/images/instagram.png",
-    link: "https://insta-clone-liard.vercel.app/login",
+    link: "https://insta-clone-liard.vercel.app",
     github: "https://github.com/7ing7ing/insta-clone",
   },
   {
