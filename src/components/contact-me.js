@@ -14,7 +14,6 @@ export default function ContactMe() {
         >
           hchunyu.tty@gmail.com
         </a>
-        <p className="md:text-2xl text-navylight">Email me</p>
       </div>
     </div>
   );
