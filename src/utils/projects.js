@@ -17,7 +17,7 @@ export const projects = [
       "React (custom hooks, compound components, styled components), Firebase for the database and hosting, React testing library for the tests, Fuse.js for the search bar.",
     image: "/images/netflix.png",
     link: "https://netclone-790b6.web.app",
-    github: "https://github.com/7ing7ing/netclone/signin",
+    github: "https://github.com/7ing7ing/netclone",
   },
   {
     key: "2",
