@@ -9,6 +9,17 @@ export const projects = [
   //     github: "",
   //   },
   {
+    key: "28",
+    title: "E-commerce shop",
+    description:
+      "An anime figures shop. Some pages are private and are protected: the user needs to login in order to see them. Is web responsive, you can signin/out and signup as is connected to the database, add products to the cart or wishlist (if you are a user, it will be saved to the database), buy by using a test card (424242...). The orders page contains all the products you have bought. Check the ReadMe in my repo for more information.",
+    technologies:
+      "React (state, hooks (custom ones as well)), Node.js, Express, API's, Bootstrap, Stripe (for the payment functionality), Firebase (for authentication and database), some npm packages: moment, react-currency-format, dotenv, Heroku for hosting and Photoshop.",
+    image: "/images/shopper.png",
+    link: "https://shopper-ecom.herokuapp.com/",
+    github: "https://github.com/7ing7ing/shopper-ecom",
+  },
+  {
     key: "1",
     title: "Netflix clone",
     description:

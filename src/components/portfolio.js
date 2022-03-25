@@ -10,6 +10,10 @@ export default function Portfolio() {
           have some clones and projects using Responsive Web Design, Front End
           Libraries (React.js), Data Visualization (D3.js), Backend Development
           (MongoDB, Node.js) and APIs and Quality Assurance Testing with Chai.
+          <br />
+          <br />
+          I've also coded my own app, an e-commerce shop! Is the first one down
+          here ↓
         </h2>
       </div>
       <div className="bg-navylight">
