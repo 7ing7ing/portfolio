@@ -7,6 +7,8 @@ import {
   SiReact,
   SiNodedotjs,
   SiTailwindcss,
+  SiChai,
+  SiMocha,
 } from "react-icons/si";
 
 export default function SectionHome() {
@@ -27,7 +29,7 @@ export default function SectionHome() {
           </p>
           <p className="text-sm sm:text-2xl mt-10 text-navy">
             Javascript (ES6) | CSS3 | HTML5| Bootstrap | MongoDB | React.js |
-            Node.js | TailwindCSS | Json | API's{" "}
+            Node.js | TailwindCSS | Json | API's | Mocha/Chai
           </p>
         </div>
         <div className="flex mt-12 text-xl sm:text-5xl text-navy">
@@ -39,6 +41,8 @@ export default function SectionHome() {
           <SiReact className="mr-3 sm:mr-4" />
           <SiNodedotjs className="mr-3 sm:mr-4" />
           <SiTailwindcss className="mr-3 sm:mr-4" />
+          <SiMocha className="mr-3 sm:mr-4" />
+          <SiChai className="mr-3 sm:mr-4" />
         </div>
       </div>
     </section>

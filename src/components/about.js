@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <div className="mx-[10%] my-5 md:mx-[15%] md:my-24 text-navy">
-      <h1 className="mb-5 text-2xl md:text-5xl">Hello!</h1>
+      <h1 className="mb-5 text-2xl md:text-5xl">Hey, there!</h1>
       <h2 className="text-base md:text-xl">
         <br /> I'm from Spain and I'm a self-taught programmer.
         <br /> I've been working on customer facing roles since I was old enough
