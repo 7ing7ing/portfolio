@@ -173,10 +173,10 @@ export const projects = [
   },
   {
     key: "16",
-    title:
+    title: "Request Header Parser Microservice",
+    description:
       "A headparser that returns a json with our ip address, our system language and the software we are using.",
-    description: "HTML, CSS, Javascript, Node.js, Express.",
-    technologies: "",
+    technologies: "HTML, CSS, Javascript, Node.js, Express.",
     image: "/images/headparser.png",
     link: "https://headparser-microservices-21.herokuapp.com/",
     github: "https://github.com/7ing7ing/headparser",
