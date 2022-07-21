@@ -27,7 +27,7 @@ export const projects = [
     technologies:
       "React (custom hooks, compound components, styled components), Firebase for the database and hosting, React testing library for the tests, Fuse.js for the search bar.",
     image: "/images/netflix.png",
-    link: "https://netclone-790b6.web.app",
+    link: "https://netclone-phi.vercel.app/",
     github: "https://github.com/7ing7ing/netclone",
   },
   {
